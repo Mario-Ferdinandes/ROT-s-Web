@@ -8,10 +8,10 @@ Herman SI
 ROT'S Web
 
 # Anggota Tim dan NPM
-Bryan
-M. Ilham
-Andre Jonathan Harahap
-Mario Ferdinandes
+Muhammad Ilham          2031074	
+Bryan Tandian           2031076	
+Andre Jonathan Harahap  2031095	
+Mario Ferdinandes       2031097	
 
 # Tahun
 2020
